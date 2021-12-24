@@ -1,6 +1,5 @@
 # Ordering UI with React
 
----
 
 My first completed React project, following the tutorial from the following [course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 
